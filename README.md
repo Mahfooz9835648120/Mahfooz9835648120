@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0C0D0F,40:0D1117,100:5B4CFF&height=160&section=header&text=Mahfooz%20Alam&fontSize=52&fontColor=F8F9FB&animation=fadeIn&fontAlignY=55&desc=Building%20cinematic%20streaming%20platforms%20%E2%80%94%20solo.&descAlignY=75&descSize=16&descColor=8792A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0D0F,50:1B2838,100:5B4CFF&height=200&section=header&text=Mahfooz%20Alam&fontSize=52&fontColor=F8F9FB&animation=fadeIn&fontAlignY=38&desc=Building%20cinematic%20streaming%20platforms%20%E2%80%94%20solo.&descAlignY=58&descSize=16&descColor=8792A0" width="100%"/>
 
 <div align="center">
 
@@ -211,4 +211,4 @@ native:  Capacitor → Android APKs
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:5B4CFF,60:0D1117,100:0C0D0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4CFF,50:1B2838,100:0C0D0F&height=120&section=footer" width="100%"/>
