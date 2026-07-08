@@ -130,23 +130,50 @@ The central hub — movies, TV, anime, and live sports under one roof with share
 
 ### 📌 Pinned Projects
 
-<a href="https://github.com/Mahfooz9835648120/Aniverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=Aniverse&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
-</a>
-<a href="https://github.com/Mahfooz9835648120/StreamVerse-Live">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=StreamVerse-Live&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
-</a>
-
-<a href="https://github.com/Mahfooz9835648120/Cineverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=Cineverse&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
-</a>
-<a href="https://github.com/Mahfooz9835648120/StreamVerse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=StreamVerse&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
-</a>
-
-<sub>Repo cards render once the repositories are public or the names match your actual repo names.</sub>
-
 </div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+[![Aniverse](https://img.shields.io/badge/🍥_Aniverse-Anime_Streaming-5BE3FF?style=for-the-badge&labelColor=0D1117)](https://aniversee.vercel.app)
+
+React · TypeScript · Vite · AniList GraphQL · Supabase · Cloudflare Workers
+
+`anime` `streaming` `HLS` `multi-provider` `social`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+[![StreamVerse Live](https://img.shields.io/badge/⚽_StreamVerse_Live-Sports_Streaming-FF4C6A?style=for-the-badge&labelColor=0D1117)](https://streamverse-live.pages.dev)
+
+React · TypeScript · FotMob API · Live Scores · Cloudflare Pages
+
+`sports` `live` `scorecards` `shot-maps` `events`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+[![Cineverse](https://img.shields.io/badge/🎞️_Cineverse-Movie_&_TV_Streaming-7C4DFF?style=for-the-badge&labelColor=0D1117)](https://cineverse-sigma-seven.vercel.app)
+
+React · FastAPI · Playwright · Railway · TMDB · Vercel
+
+`movies` `tv` `scraping` `multi-provider` `glassmorphism`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+[![StreamVerse](https://img.shields.io/badge/🌐_StreamVerse-Main_Hub-5B4CFF?style=for-the-badge&labelColor=0D1117)](https://www.streamverse.fun)
+
+React · Supabase · Vite · Unified Auth · Watchlists
+
+`hub` `streaming` `auth` `watchlist` `unified`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -154,10 +181,10 @@ The central hub — movies, TV, anime, and live sports under one roof with share
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahfooz9835648120&show_icons=true&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838&hide_border=false&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfooz9835648120&theme=dark&background=0D1117&stroke=1B2838&ring=5BE3FF&fire=7C4DFF&currStreakLabel=5BE3FF&border=1B2838" width="48%" />
+<img src="https://github-stats.as93.net/api?username=Mahfooz9835648120&show_icons=true&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Mahfooz9835648120&theme=dark&background=0D1117&stroke=1B2838&ring=5BE3FF&fire=7C4DFF&currStreakLabel=5BE3FF&border=1B2838" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfooz9835648120&layout=compact&theme=dark&bg_color=0D1117&title_color=5BE3FF&text_color=C9D1D9&border_color=1B2838&hide_border=false" width="45%" />
+<img src="https://github-stats.as93.net/api/top-langs/?username=Mahfooz9835648120&layout=compact&theme=dark&bg_color=0D1117&title_color=5BE3FF&text_color=C9D1D9&border_color=1B2838&count_private=true" width="45%" />
 
 </div>
 
@@ -167,7 +194,7 @@ The central hub — movies, TV, anime, and live sports under one roof with share
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahfooz9835648120&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mahfooz9835648120&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6&no-bg=true" width="90%" />
 
 </div>
 
