@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0D0F,50:1B2838,100:5B4CFF&height=230&section=header&text=Mahfooz%20Alam&fontSize=52&fontColor=F8F9FB&animation=fadeIn&fontAlignY=38&desc=Building%20cinematic%20streaming%20experiences,%20solo.&descAlignY=58&descSize=18&descColor=8792A0" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2600&pause=900&color=5BE3FF&center=true&vCenter=true&width=650&lines=Solo+Developer+%7C+React+%2F+TypeScript+%2F+Vite;Building+Aniverse+%E2%80%94+Anime+Streaming+Platform;Building+StreamVerse+Live+%E2%80%94+Sports+%26+Events;Dark+UI+%2B+Glassmorphism+%2B+Framer+Motion;Android+Deploys+with+Capacitor+%F0%9F%93%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2600&pause=900&color=FFFFFF99&center=true&vCenter=true&width=650&lines=Solo+Developer+%7C+React+%2F+TypeScript+%2F+Vite;Building+Aniverse+%E2%80%94+Anime+Streaming+Platform;Building+StreamVerse+Live+%E2%80%94+Sports+%26+Events;Dark+UI+%2B+Glassmorphism+%2B+Framer+Motion;Android+Deploys+with+Capacitor+%F0%9F%93%B1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,8 +19,9 @@
 I design and build **interconnected streaming platforms** end-to-end — frontend, backend, and native Android wrappers — as a solo developer. No team, no hand-offs: every pixel, provider integration, and Cloudflare Worker is mine to own.
 
 - 🍥 **[Aniverse](https://aniversee.vercel.app)** — anime streaming app powered by AniList GraphQL, Supabase, and a custom multi-provider backend (`Anivexa-API`)
-- ⚽ **StreamVerse Live** — live sports & events streaming, real-time scorecards, FotMob-style shot maps, and tribute pages for the players I grew up watching (Ronaldo, Neymar)
-- 🎞️ **Cineverse / StreamVerse** — a general streaming aggregator pulling it all together at [streamverse.fun](https://streamverse.fun)
+- ⚽ **[StreamVerse Live](https://streamverse-live.pages.dev)** — live sports & events streaming, real-time scorecards, FotMob-style shot maps, and tribute pages for the players I grew up watching (Ronaldo, Neymar)
+- 🎞️ **[Cineverse](https://cineverse-sigma-seven.vercel.app)** — cinematic movie & TV streaming aggregator with premium UI
+- 🌐 **[StreamVerse](https://www.streamverse.fun)** — the main hub pulling it all together
 
 I care a lot about **design restraint** — dark, cinematic UIs where animation signals meaning instead of decorating. No emoji clutter in-app, clean SVG icons, glassmorphism used with intent.
 
@@ -65,18 +66,87 @@ obsessed:  frame-accurate player UX, football ⚽
 <tr>
 <td width="50%" valign="top">
 
-**🍥 Aniverse**
+**🍥 [Aniverse](https://aniversee.vercel.app)**
 Anime streaming with a Three.js poster wall, AI-seeded recommendations from watch history, real-time DMs & social zone, and a precision-built player with dropdown server/quality selection.
 
 </td>
 <td width="50%" valign="top">
 
-**⚽ StreamVerse Live**
+**⚽ [StreamVerse Live](https://streamverse-live.pages.dev)**
 Sports & live events with synced Watch Together rooms, GIF-powered live chat, animated scorecards, and a WebGL-upscaled player with haptics and hold-to-2x playback.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎞️ [Cineverse](https://cineverse-sigma-seven.vercel.app)**
+Movie & TV streaming aggregator with premium glassmorphism UI, multi-provider resolution, and a Railway-backed FastAPI/Playwright sniffing backend.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [StreamVerse](https://www.streamverse.fun)**
+The central hub — movies, TV, anime, and live sports under one roof with shared auth, watchlists, and a unified player experience.
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### 🤖 How I use AI
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**What I use it for**
+- Accelerating boilerplate — component scaffolding, SQL migrations, Cloudflare Worker stubs
+- Debugging edge cases in HLS/DASH player logic, WebView quirks, and Playwright sniffing pipelines
+- Drafting and refining complex regex, API response parsers, and provider scraping strategies
+- Iterating on UI copy, README structure, and design decisions fast
+
+</td>
+<td width="50%" valign="top">
+
+**How I keep control**
+- Every AI output gets reviewed and adapted — I never ship generated code blind
+- Architecture decisions, provider integrations, and UX direction are always mine
+- AI is a force multiplier on execution, not a replacement for judgement
+- The taste, the restraint, the product decisions — all intentional, all human
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📌 Pinned Projects
+
+<a href="https://github.com/Mahfooz9835648120/Aniverse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=Aniverse&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
+</a>
+<a href="https://github.com/Mahfooz9835648120/StreamVerse-Live">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=StreamVerse-Live&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
+</a>
+
+<a href="https://github.com/Mahfooz9835648120/Cineverse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=Cineverse&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
+</a>
+<a href="https://github.com/Mahfooz9835648120/StreamVerse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahfooz9835648120&repo=StreamVerse&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838" />
+</a>
+
+<sub>Repo cards render once the repositories are public or the names match your actual repo names.</sub>
+
+</div>
 
 <br/>
 
@@ -109,7 +179,7 @@ Sports & live events with synced Watch Together rooms, GIF-powered live chat, an
 
 <img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>Renders once the <code>snake.yml</code> GitHub Action below runs on this repo</sub>
+<sub>Renders once the <code>snake.yml</code> GitHub Action runs on this repo</sub>
 
 </div>
 
@@ -119,7 +189,8 @@ Sports & live events with synced Watch Together rooms, GIF-powered live chat, an
 
 ### 🔗 Find my work
 
-<a href="https://streamverse.fun"><img src="https://img.shields.io/badge/StreamVerse-streamverse.fun-5B4CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.streamverse.fun"><img src="https://img.shields.io/badge/StreamVerse-www.streamverse.fun-5B4CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://streamverse-live.pages.dev"><img src="https://img.shields.io/badge/StreamVerse_Live-Live%20App-FF4C6A?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
 <a href="https://aniversee.vercel.app"><img src="https://img.shields.io/badge/Aniverse-Live%20App-5BE3FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://cineverse-sigma-seven.vercel.app"><img src="https://img.shields.io/badge/Cineverse-Live%20App-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://t.me/StreamVerseofc"><img src="https://img.shields.io/badge/Telegram-@StreamVerseofc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
