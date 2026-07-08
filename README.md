@@ -99,7 +99,7 @@ FastAPI · Playwright · Railway · TMDB · Multi-provider resolution
 **🌐 [StreamVerse](https://www.streamverse.fun)**
 
 <!-- Replace with your screenshot -->
-<img src="https://placehold.co/480x260/0D1117/5B4CFF?text=StreamVerse+Screenshot" width="100%" style="border-radius:8px"/>
+<img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/main/assets/streamverse.jpg" width="100%" style="border-radius:8px"/>
 
 Unified auth · Shared watchlists · Anime + Movies + Live Sports
 
@@ -201,7 +201,7 @@ Unified auth · Shared watchlists · Anime + Movies + Live Sports
 
 ### 📊 GitHub Stats
 
-<img src="https://github-stats.as93.net/api?username=Mahfooz9835648120&show_icons=true&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mahfooz9835648120&show_icons=true&theme=dark&bg_color=0D1117&title_color=5BE3FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2838&count_private=true&hide_border=false" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Mahfooz9835648120&theme=dark&background=0D1117&stroke=1B2838&ring=5BE3FF&fire=7C4DFF&currStreakLabel=5BE3FF&border=1B2838" width="48%" />
 
 </div>
